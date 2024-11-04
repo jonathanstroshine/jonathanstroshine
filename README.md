@@ -7,7 +7,7 @@ Full-Stack Developer
 Programmer with a passion for collaborating to build and maintain great code
 
 *   🌍  I'm based in the United States
-*   ✉️  You can contact me at [jon.stroshine@echotrail.io](mailto:jon.stroshine@echotrail.io)
+*   ✉️  You can contact me at [jonstroshine1@gmail.com](mailto:jonstroshine1@gmail.com)
 *   🚀  I'm currently working on [LogPilot](http://logpilot.netlify.app)
 *   🧠  I'm learning Next.js, GCP, and more!
   
