@@ -25,7 +25,8 @@ Programmer with a passion for collaborating to build and maintain great code
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" />
 </a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.cypress.io/icons/icon-512x512.png" width="36" height="36" alt="Cypress" />
+    <img src="https://www.cypress.io/icons/icon-512x512.png" width="36" height="36" alt="Cypress" />
+  </a>
 </p>
                     
 ### Socials
