@@ -1,17 +1,15 @@
-Hi 👋 My name is Jonathan Stroshine
-===================================
+# Hi, I'm Jon Stroshine 👋
 
-Full-Stack Developer
---------------------
+Full-stack developer with a passion for collaborating to build and maintain
+great code.
 
-Programmer with a passion for collaborating to build and maintain great code
+*   🌍  Based in Memphis, TN
+*   ✉️  Reach me at [jonstroshine1@gmail.com](mailto:jonstroshine1@gmail.com)
+*   🚀  Currently building **LogPilot** — digitize a pilot logbook from a photo
+       of the page, using a vision model to pull the handwriting into a clean table
+*   🧠  Going deeper on Next.js, GCP, cloud infrastructure, and applied AI
 
-*   🌍  I'm based in the United States
-*   ✉️  You can contact me at [jonstroshine1@gmail.com](mailto:jonstroshine1@gmail.com)
-*   🚀  I'm currently working on [LogPilot](http://logpilot.netlify.app)
-*   🧠  I'm learning Next.js, GCP, and more!
-  
-  ### Skills 
+### Skills
 <p align="left">
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
@@ -27,10 +25,9 @@ Programmer with a passion for collaborating to build and maintain great code
 </a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.cypress.io/" target="_blank" rel="noreferrer">Cypress</a>
 
 </p>
-                    
+
 ### Socials
-                  
-                  
+
   <p align="left">
         <a href="https://www.github.com/jonathanstroshine" target="_blank" rel="noreferrer">
       <picture>
